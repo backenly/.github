@@ -26,8 +26,8 @@ Every change it makes is governed, reversible, and written to an audit trail. Th
 
 The tools you install to build on Backenly are open source. The platform itself runs at [backenly.com](https://backenly.com).
 
-- **backenly-js**: the JavaScript SDK, CLI, and MCP server.
-- **backend-engineer**: a skill that makes Claude Code, Cursor, and Codex build backends correctly.
+- [**backenly-js**](https://github.com/backenly/backenly-js): the JavaScript SDK, CLI, and MCP server.
+- [**skills**](https://github.com/backenly/skills): a backend skill that makes Claude Code, Cursor, and Codex build backends correctly.
 
 ### Links
 
