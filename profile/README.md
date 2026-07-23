@@ -4,10 +4,10 @@
 
 ### Your coding agent builds the backend. Backenly keeps it running.
 
-Backenly turns a plain-English product description into a running backend:
-PostgreSQL, REST APIs, auth, storage, realtime, and functions. Then it keeps that
-backend healthy on its own, fixing the routine problems automatically and holding
-the risky ones for your approval, around the clock.
+You describe the backend you need through your coding agent, and Backenly builds
+it: PostgreSQL, REST APIs, auth, storage, realtime, and functions. Then it keeps
+that backend healthy on its own, fixing the routine problems automatically and
+holding the risky ones for your approval, around the clock.
 
 <br/>
 
